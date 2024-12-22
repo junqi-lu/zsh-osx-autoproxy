@@ -12,7 +12,7 @@
 1. Clone this repository into `$ZSH_CUSTOM/plugins` (by default `~/.oh-my-zsh/custom/plugins`)
 
 ```bash
-git clone https://github.com/sukkaw/zsh-osx-autoproxy ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-osx-autoproxy
+git clone https://github.com/junqi-lu/zsh-osx-autoproxy.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-osx-autoproxy
 ```
 
 2. Add the plugin to the list of plugins for oh-my-zsh to load (inside `~/.zshrc`):
